@@ -1,0 +1,21 @@
+C:\_Study\PhD\gSpan\gSpan\bin\Debug\gSpan.exe.config
+C:\_Study\PhD\gSpan\gSpan\bin\Debug\gSpan.exe
+C:\_Study\PhD\gSpan\gSpan\bin\Debug\gSpan.pdb
+C:\_Study\PhD\gSpan\gSpan\obj\Debug\gSpan.frmMain.resources
+C:\_Study\PhD\gSpan\gSpan\obj\Debug\gSpan.Properties.Resources.resources
+C:\_Study\PhD\gSpan\gSpan\obj\Debug\gSpan.csproj.GenerateResource.Cache
+C:\_Study\PhD\gSpan\gSpan\obj\Debug\gSpan.exe
+C:\_Study\PhD\gSpan\gSpan\obj\Debug\gSpan.pdb
+C:\_Study\PhD\gSpan\gSpan\obj\Debug\gSpan.csprojResolveAssemblyReference.cache
+C:\_Study\PhD\Graph Mining\gSpan\gSpan\bin\Debug\gSpan.exe.config
+C:\_Study\PhD\Graph Mining\gSpan\gSpan\obj\Debug\gSpan.exe
+C:\_Study\PhD\Graph Mining\gSpan\gSpan\obj\Debug\gSpan.pdb
+D:\_PhD\GitHub\gSpan\gSpan\gSpan\bin\Debug\gSpan.exe.config
+D:\_PhD\GitHub\gSpan\gSpan\gSpan\obj\Debug\gSpan.exe
+D:\_PhD\GitHub\gSpan\gSpan\gSpan\obj\Debug\gSpan.pdb
+D:\_PhD\GitHub\gSpan\gSpan\gSpan\bin\Debug\gSpan.exe
+D:\_PhD\GitHub\gSpan\gSpan\gSpan\bin\Debug\gSpan.pdb
+D:\_PhD\GitHub\gSpan\gSpan\gSpan\obj\Debug\gSpan.csprojResolveAssemblyReference.cache
+D:\_PhD\GitHub\gSpan\gSpan\gSpan\obj\Debug\gSpan.frmMain.resources
+D:\_PhD\GitHub\gSpan\gSpan\gSpan\obj\Debug\gSpan.Properties.Resources.resources
+D:\_PhD\GitHub\gSpan\gSpan\gSpan\obj\Debug\gSpan.csproj.GenerateResource.Cache
