@@ -15,4 +15,4 @@ If you use our source code, please cite the orginal gSpan paper and our paper as
 2. Bay Vo, Dang Nguyen, Thanh-Long Nguyen (2015). A parallel algorithm for frequent subgraph mining. ICCSAMA 2015, Metz, France. Springer AISC, 358, 163-173.
 
 If you use the datasets, please cite our paper as follows:
-1. Dang Nguyen, Wei Luo, Tu Dinh Nguyen, Svetha Venkatesh, Dinh Phung. Learning Graph Representation via Frequent Subgraphs. SDM 2018, San Diego, USA. SIAM, 306-314.
+1. Dang Nguyen, Wei Luo, Tu Dinh Nguyen, Svetha Venkatesh, Dinh Phung (2018). Learning Graph Representation via Frequent Subgraphs. SDM 2018, San Diego, USA. SIAM, 306-314.
