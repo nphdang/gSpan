@@ -1,4 +1,4 @@
-# gSpan
+# gSpan and its parallel version
 gSpan, an efficient algorithm for mining frequent subgraphs
 
 # How to run
@@ -14,5 +14,5 @@ If you use our source code, please cite the orginal gSpan paper and our paper as
 1. Xifeng Yan, Jiawei Han (2002). gspan: Graph-based substructure pattern mining. IEEE ICDM 2003, 721-724.
 2. Bay Vo, Dang Nguyen, Thanh-Long Nguyen (2015). A parallel algorithm for frequent subgraph mining. ICCSAMA 2015, Metz, France. Springer AISC, 358, 163-173.
 
-If you use the datasets, please cite our paper as follows:
+If you use the graph datasets, please cite our paper as follows:
 1. Dang Nguyen, Wei Luo, Tu Dinh Nguyen, Svetha Venkatesh, Dinh Phung (2018). Learning Graph Representation via Frequent Subgraphs. SDM 2018, San Diego, USA. SIAM, 306-314.
