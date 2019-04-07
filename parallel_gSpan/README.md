@@ -16,4 +16,6 @@
         convert each graph to a set of FSGs and save it to <file> (optional)
 ```
 # Reference
-Bay Vo, Dang Nguyen, Thanh-Long Nguyen (2015). A parallel algorithm for frequent subgraph mining. ICCSAMA 2015, Metz, France. Springer AISC, 358, 163-173.
+1. Dang Nguyen, Wei Luo, Tu Dinh Nguyen, Svetha Venkatesh, Dinh Phung (2018). Learning Graph Representation via Frequent Subgraphs. SDM 2018, San Diego, USA. SIAM, 306-314.
+
+2. Bay Vo, Dang Nguyen, Thanh-Long Nguyen (2015). A parallel algorithm for frequent subgraph mining. ICCSAMA 2015, Metz, France. Springer AISC, 358, 163-173.
