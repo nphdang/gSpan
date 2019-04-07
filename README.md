@@ -1,5 +1,5 @@
 # gSpan and its parallel version
-gSpan, an efficient algorithm for mining frequent subgraphs
+gSpan, an efficient algorithm for mining frequent subgraphs from a set of graphs (i.e., a graph dataset)
 
 # How to run
 1. Download and install .NET Framework 4.0 (http://www.microsoft.com/en-us/download/details.aspx?id=17718).
