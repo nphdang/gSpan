@@ -22,6 +22,7 @@ fsg_miner.exe -graphset ./data/mutag/mutag_graph.txt -graphlabel ./data/mutag/mu
 ```
 - This command finds frequent subgraphs in the dataset "mutag" with the minimum support threshold of 0.35 (35%) and saves the discovered frequent subgraphs into the file "mutag_fsg.txt" in the current working folder.
 - The console also summarizes the total number of frequent subgraphs found along with runtime in seconds.
+
 ![fsg_miner command](https://github.com/nphdang/gSpan/blob/master/fsg_miner_command.jpg)
 
 # Reference
