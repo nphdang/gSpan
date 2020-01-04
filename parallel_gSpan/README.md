@@ -15,6 +15,15 @@
         -output <file>
         convert each graph to a set of FSGs and save it to <file> (optional)
 ```
+# How to run
+- Use Windows console and type the command, e.g.
+```
+fsg_miner.exe -graphset ./data/mutag/mutag_graph.txt -graphlabel ./data/mutag/mutag_label.txt -minsup 0.35 -fsg mutag_fsg.txt
+```
+- This command finds frequent subgraphs in the dataset "mutag" with the minimum support threshold of 0.35 (35%) and saves the discovered frequent subgraphs into the file "mutag_fsg.txt" in the current working folder.
+- The console also summarizes the total number of frequent subgraphs found along with runtime in seconds.
+![fsg_miner command](https://github.com/nphdang/gSpan/blob/master/fsg_miner_command.jpg)
+
 # Reference
 1. Dang Nguyen, Wei Luo, Tu Dinh Nguyen, Svetha Venkatesh, Dinh Phung (2018). Learning Graph Representation via Frequent Subgraphs. SDM 2018, San Diego, USA. SIAM, 306-314.
 
